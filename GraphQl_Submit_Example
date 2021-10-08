@@ -1,0 +1,36 @@
+============Get data===============
+query{
+  categories {
+    id
+    title
+  }
+}
+
+============Create Data===============
+mutation {
+ create_category:createCategory(title :"123123") {
+  category {
+   id,
+   title,
+  }
+ }
+}
+
+============Update Data===============
+mutation {
+ updateCategory:updateCategory(title :"ASDADDSDSSAS", id:6) {
+  category {
+   id,
+   title,
+  }
+ }
+}
+
+============Delete Data===============
+mutation {
+ deleteCategory:deleteCategory(id:2) {
+  category {
+   id,
+  }
+ }
+}

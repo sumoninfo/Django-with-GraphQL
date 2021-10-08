@@ -111,6 +111,7 @@ class DeleteCategory(graphene.Mutation):
 
         return DeleteCategory(category=category)
 
+
 class BookInput(graphene.InputObjectType):
     title = graphene.String()
     author = graphene.String()

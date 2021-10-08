@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3451ccc9-5979-40ca-a525-a4810aac91c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GraphQl_Submit_Example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/products/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/products/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/products/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/products/schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633675073188</updated>
       <workItem from="1633675074358" duration="1340000" />
-      <workItem from="1633685079764" duration="4596000" />
+      <workItem from="1633685079764" duration="7374000" />
     </task>
     <servers />
   </component>
